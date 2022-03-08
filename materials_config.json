@@ -1,0 +1,303 @@
+{
+    "1": {
+        "type": "phong",
+        "params": {
+            "color": "#00FF00"
+        }
+    },
+    "2": {
+        "type": "phong",
+        "params": {
+            "color": "#FF0000"
+        }
+    },
+    "3": {
+        "type": "phong",
+        "params": {
+            "color": "#0000FF"
+        }
+    },
+    "4": {
+        "type": "phong",
+        "params": {
+            "color": "#00FFFF"
+        }
+    },
+    "5": {
+        "type": "phong",
+        "params": {
+            "color": "#FFFF00"
+        }
+    },
+    "6": {
+        "type": "phong",
+        "params": {
+            "color": "#FF00FF"
+        }
+    },
+    "7": {
+        "type": "phong",
+        "params": {
+            "color": "#FCBA03"
+        }
+    },
+    "8": {
+        "type": "phong",
+        "params": {
+            "color": "#FF17CD"
+        }
+    },
+    "9": {
+        "type": "phong",
+        "params": {
+            "color": "#000000"
+        }
+    },
+    "10": {
+        "type": "phong",
+        "params": {
+            "color": "#FFFFFF"
+        }
+    },
+    "11": {
+        "type": "basic",
+        "params": {
+            "url": "dirt.png"
+        }
+    },
+    "12": {
+        "type": "basic",
+        "params": {
+            "url": "grass.png"
+        }
+    },
+    "13": {
+        "type": "basic",
+        "params": {
+            "url": "brick.png"
+        }
+    },
+    "14": {
+        "type": "basic",
+        "params": {
+            "url": "bark1.png"
+        }
+    },
+    "15": {
+        "type": "basic",
+        "params": {
+            "url": "bark2.png"
+        }
+    },
+    "16": {
+        "type": "basic",
+        "params": {
+            "url": "wood.png"
+        }
+    },
+    "17": {
+        "type": "basic",
+        "params": {
+            "url": "wood2.png"
+        }
+    },
+    "18": {
+        "type": "basic",
+        "params": {
+            "url": "planks.png"
+        }
+    },
+    "19": {
+        "type": "basic",
+        "params": {
+            "url": "planks2.png"
+        }
+    },
+    "20": {
+        "type": "basic",
+        "params": {
+            "url": "marble.png"
+        }
+    },
+    "21": {
+        "type": "basic",
+        "params": {
+            "url": "metal.png"
+        }
+    },
+    "22": {
+        "type": "basic",
+        "params": {
+            "url": "fabric1.png"
+        }
+    },
+    "23": {
+        "type": "basic",
+        "params": {
+            "url": "fabric2.png"
+        }
+    },
+    "24": {
+        "type": "basic",
+        "params": {
+            "url": "fabric3.png"
+        }
+    },
+    "25": {
+        "type": "basic",
+        "params": {
+            "url": "leather.png"
+        }
+    },
+    "26": {
+        "type": "basic",
+        "params": {
+            "url": "coins.png"
+        }
+    },
+    "27": {
+        "type": "basic",
+        "params": {
+            "url": "marble2.png"
+        }
+    },
+    "28": {
+        "type": "basic",
+        "params": {
+            "url": "marble3.png"
+        }
+    },
+    "29": {
+        "type": "basic",
+        "params": {
+            "url": "redlines.png"
+        }
+    },
+    "30": {
+        "type": "basic",
+        "params": {
+            "url": "grill.png"
+        }
+    },
+    "31": {
+        "type": "basic",
+        "params": {
+            "url": "leaves.png",
+            "transparent": true
+        }
+    },
+    "32": {
+        "type": "basic",
+        "params": {
+            "url": "leaves_thin.png",
+            "transparent": true
+        }
+    },
+    "33": {
+        "type": "basic",
+        "params": {
+            "url": "leaves_thin2.png",
+            "transparent": true
+        }
+    },
+    "34": {
+        "type": "basic",
+        "params": {
+            "url": "water.png",
+            "transparent": true,
+            "opacity": 0.5
+        }
+    },
+    "35": {
+        "type": "basic",
+        "params": {
+            "url": "water2.png",
+            "transparent": true,
+            "opacity": 0.5
+        }
+    },
+    "36": {
+        "type": "basic",
+        "params": {
+            "url": "grass_dirt.png"
+        }
+    },
+    "37": {
+        "type": "basic",
+        "params": {
+            "url": "door.png"
+        }
+    },
+    "38": {
+        "type": "basic",
+        "params": {
+            "url": "fur.png"
+        }
+    },
+    "39": {
+        "type": "basic",
+        "params": {
+            "url": "pua.png"
+        }
+    },
+    "40": {
+        "type": "basic",
+        "params": {
+            "url": "dark_fur.png"
+        }
+    },
+    "41": {
+        "type": "basic",
+        "params": {
+            "url": "wolf.png"
+        }
+    },
+    "42": {
+        "type": "basic",
+        "params": {
+            "url": "green_frame.png"
+        }
+    },
+    "43": {
+        "type": "basic",
+        "params": {
+            "url": "1.png"
+        }
+    },
+    "44": {
+        "type": "basic",
+        "params": {
+            "url": "2.png"
+        }
+    },
+    "45": {
+        "type": "basic",
+        "params": {
+            "url": "3.png"
+        }
+    },
+    "46": {
+        "type": "basic",
+        "params": {
+            "url": "4.png"
+        }
+    },
+    "47": {
+        "type": "basic",
+        "params": {
+            "url": "5.png"
+        }
+    },
+    "48": {
+        "type": "basic",
+        "params": {
+            "url": "6.png"
+        }
+    },
+    "49": {
+        "type": "basic",
+        "params": {
+            "visible": false
+        }
+    }
+}

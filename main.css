@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: black;
+}
+
+#clear_map {
+  position: absolute;
+  z-index: 999;
+  bottom: 20px;
+  right: 20px;
+  font: 13px sans-serif;
+  padding: 12px 17px;
+  display: block;
+  color: white;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 4px;
+  opacity: 0.5;
+
+}
+#clear_map:hover {
+  opacity: 1;
+}
