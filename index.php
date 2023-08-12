@@ -5,7 +5,7 @@ $sound = true;
 $on_vr_headset = !!(preg_match("#Oculus#i", $_SERVER['HTTP_USER_AGENT']));
 //$remote_logging_enabled = $on_vr_headset;
 $remote_logging_enabled = true;
-$console_log_prefix = "console";
+$console_log_prefix = "remote-console";
 $save_dir = "saves";
 $logs_dir = "logs";
 
@@ -27,6 +27,10 @@ if (isset($_REQUEST['new'])) {
     header("Location: " . $path);
     exit;
 }
+
+// load a specific game
+//$gameid = "6234f0bc577e4";
+//$_COOKIE['gameid'] = $gameid;
 
 if (!isset($_COOKIE['gameid'])) {
     $gameid = uniqid();
@@ -75,6 +79,16 @@ print '<!DOCTYPE html>';
 print '
 <html lang="en">
 <head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-06CNB22BQV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "G-06CNB22BQV");
+</script>
+
 <title>Block World</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
